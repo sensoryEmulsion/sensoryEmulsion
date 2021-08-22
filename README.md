@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sensoryEmulsion
+- 👋 Hi, I’m @sensoryEmulsion / ian boy
 - 👀 I’m interested in game development. 
 - 🌱 I’m currently learning C# and unity :)
 - 💞️ I’m looking to collaborate on anything really. I would love more practice to develop my C# skills. 
